@@ -1,0 +1,17 @@
+# Bases de datos generadas por el ETL
+*.db
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
