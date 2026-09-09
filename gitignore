@@ -1,7 +1,7 @@
 # Bases de datos generadas por el ETL
 *.db
 
-# Checkpoints de Jupyter
+# Checkpoints de Colab
 .ipynb_checkpoints/
 
 # Entornos virtuales
