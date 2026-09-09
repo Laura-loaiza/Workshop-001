@@ -6,7 +6,7 @@ Workshop 001: ETL
 .
 ├── database/
 │   └── candidates.csv                  # Datos de origen 
-├── ETL - Notebook/
+├── ETL_notebook/
 │   └── ETL_Workshop01.ipynb            # Proceso Extract, Transform, Load al DW
 ├── SQL_Queries_KPIs_DW/
 │   ├── SQL_KPIs.ipynb                  # SQL Queries + gráficos de los KPIs
